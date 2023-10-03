@@ -2,10 +2,14 @@ const express = require("express");
 const dotenv = require('dotenv');
 const colors = require('colors');
 const morgan = require('morgan');
-const cors = require('cors')
+const cors = require('cors');
+const connectDB = require("./config/db");
 
 // dotenv config
 dotenv.config();  // if .env file is inside then give full path
+
+// mongoDb connecetion
+connectDB();
 
 // rest object
 const app = express();
