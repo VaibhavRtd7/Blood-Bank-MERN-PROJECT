@@ -2,12 +2,13 @@
 -How to commit in project by part wise
 
 npmjs.com -> website
-  -nodemon
-  -colors     // used to color the text output
-  -morgan  // Using Morgan, you can easily log requests made to your Node. js server
-  -cors   //  CORS is a security feature
-  -mongoose -> check it
-  -dotenv -> must download  // used for security
+  - nodemon
+  - colors     // used to color the text output
+  - morgan  // Using Morgan, you can easily log requests made to your Node. js server
+  - cors   //  CORS is a security feature
+  - mongoose -> check it
+  - dotenv -> must download  // used for security
 
   This is the Just Note
 
+  hello
