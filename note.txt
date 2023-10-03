@@ -9,6 +9,6 @@ npmjs.com -> website
   - mongoose -> check it
   - dotenv -> must download  // used for security
 
-  This is the Just Note
+  This is the Just Note.
 
-  hello
+  This is just second demo. 💯
