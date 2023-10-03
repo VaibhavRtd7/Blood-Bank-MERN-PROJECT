@@ -5,7 +5,9 @@ npmjs.com -> website
   -nodemon
   -colors     // used to color the text output
   -morgan  // Using Morgan, you can easily log requests made to your Node. js server
-  -cors   // to connect the server of react with node
+  -cors   //  CORS is a security feature
   -mongoose -> check it
   -dotenv -> must download  // used for security
+
+  This is the Just Note
 
